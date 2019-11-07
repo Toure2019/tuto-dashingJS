@@ -1,5 +1,6 @@
 [![Coverage Status](https://coveralls.io/repos/github/Toure2019/tuto-dashingJS/badge.svg?branch=master)](https://coveralls.io/github/Toure2019/tuto-dashingJS?branch=master)
 [![Build Status](https://travis-ci.org/Toure2019/tuto-dashingJS.svg?branch=master)](https://travis-ci.org/Toure2019/tuto-dashingJS)
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/93842d17eb684d4ab15fe02bee6b6c54)](https://www.codacy.com/manual/Toure2019/tuto-dashingJS?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Toure2019/tuto-dashingJS&amp;utm_campaign=Badge_Grade)
 
 # TutoDashingJS
 
