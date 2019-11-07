@@ -1,3 +1,7 @@
+[![Coverage Status](https://coveralls.io/repos/github/Toure2019/tuto-dashingJS/badge.svg?branch=master)](https://coveralls.io/github/Toure2019/tuto-dashingJS?branch=master)
+
+[![Build Status](https://travis-ci.org/Toure2019/tuto-dashingJS.svg?branch=master)](https://travis-ci.org/Toure2019/tuto-dashingJS)
+
 # TutoDashingJS
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 8.0.2.
